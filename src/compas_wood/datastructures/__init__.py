@@ -16,3 +16,5 @@ Classes
 """
 
 from .assembly import Assembly
+
+__all__ = ['Assembly']

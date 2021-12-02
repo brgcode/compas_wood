@@ -9,6 +9,8 @@ compas_wood
 .. toctree::
     :maxdepth: 1
 
+    compas_wood.datastructures
+
 
 """
 

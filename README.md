@@ -1,3 +1,4 @@
 # COMPAS Wood
 
-joinery generation
+Joinery generation for IBOIS, EPFL.
+Currently the repository is maintained by Petras Vestartas

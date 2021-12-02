@@ -4,7 +4,7 @@ Joinery generation for IBOIS, EPFL.
 Currently the repository is maintained by Petras Vestartas
 
 
-To-do List:
+To-do:
 - [ ] update repository with C++ files
 - [ ] update the setup.py file of the repo similar to the one found in compas_cgal. If there are no bugs in your code and everything is properly linked, every subsequent call to the pip installer will compile your repo making the code available as part of your editable install.
 - [ ] pip install -e .

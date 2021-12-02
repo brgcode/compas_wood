@@ -1,4 +1,6 @@
-Currently the repository is maintained by Petras Vestartas. Joinery generation for IBOIS, EPFL.
+Joinery generation from IBOIS, EPFL.
+Currently the repository is maintained by Petras Vestartas. 
+
 
 # compas_wood
 

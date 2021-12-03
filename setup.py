@@ -57,28 +57,9 @@ ext_modules = [
     Extension(
         'compas_wood._wood',
         sorted([
-            'src/CGAL_BoxUtil.h',
-            'src/CGAL_IntersectionUtil.h',
-            'src/CGAL_MathUtil.h',
-            'src/CGAL_MeshUtil.h',
-            'src/CGAL_PlaneUtil.h',
-            'src/CGAL_PolylineUtil.h',
-            'src/CGAL_Print.h',
-            'src/CGAL_VectorUtil.h',
-            'src/CGAL_XFormUtil.h',
-            'src/CGAL_clipper.cpp',
-            'src/CGAL_clipper.h',
-            'src/CGAL_compas.h',
-            'src/CGAL_connection_zones.cpp',
-            'src/CGAL_connection_zones.h',
-            'src/CGAL_element.h',
-            'src/CGAL_joint.h',
-            'src/CGAL_joint_library.h',
-            'src/CGAL_RTree.h',
-            'src/CGAL_stdafx.h',
-            'src/CGAL_xxx_interop_python.cpp',
-            'src/CGAL_xxx_interop_python.h',
-            
+            'src/clipper.cpp',
+            'src/connection_zones.cpp',
+            'src/xxx_interop_python.cpp'           
         ]),
         include_dirs=[
             './include',
